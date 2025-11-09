@@ -6,7 +6,6 @@
 
 [![DigiEduHack 2025](https://img.shields.io/badge/DigiEduHack-2025-purple?style=for-the-badge)](https://digieduhack.com/)
 [![Status](https://img.shields.io/badge/Status-Concept-blue?style=for-the-badge)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 *An AI-powered learning platform that turns "whAt's a DoCker?" into "deployed and documented."*
 
@@ -38,7 +37,7 @@ To reinforce and further motivate the user, we decided to add elements of **gami
 
 ---
 
-## 🏗️ Technical Architecture
+## 🏗️ Technical Architecture <a id="technical-architecture"></a>
 
 ### Core Technologies
 
