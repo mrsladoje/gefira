@@ -153,7 +153,7 @@ The growing ecosystem of MCP servers expands Gefira's interoperability daily, al
 
 **Team Educels** - Higher Education Students
 
-- 🎯 **Marko Sladojević** (Markić)
+- 🎯 **Marko Sladojević**
 - 🚀 **Vukan Radojević**
 - 💻 **Miloš Jovanović**
 - ⚡ **Relja Brdar**
