@@ -7,7 +7,13 @@
 [![DigiEduHack 2025](https://img.shields.io/badge/DigiEduHack-2025-purple?style=for-the-badge)](https://digieduhack.com/)
 [![Status](https://img.shields.io/badge/Status-Concept-blue?style=for-the-badge)](https://github.com)
 
-*An AI-powered learning platform that turns "whAt's a DoCker?" into "deployed and documented."*
+<div align="center">
+
+<img src="./gefira_logo.png" alt="Gefira logo" width="220" style="border-radius:50%;display:block;margin:0 auto;"/>
+
+</div>
+<br/>
+<i>An AI-powered learning platform that turns "whAt's a DoCker?" into "deployed and documented."</i>
 
 </div>
 
@@ -15,7 +21,7 @@
 
 ## 💡 The Problem
 
-Ever felt like your university taught you everything *except* what you need for your actual job? You're not alone.
+Ever felt like your university taught you everything _except_ what you need for your actual job? You're not alone.
 
 The gap between academic coursework and industry requirements has grown exponentially—especially in IT. While tech advances at breakneck speed in the AI era, traditional education struggles to keep pace. Students graduate with degrees but without the practical, market-ready skills employers demand.
 
@@ -56,22 +62,26 @@ graph TD
 ### Key Features
 
 #### 🔍 **RAG-Powered Personalization**
+
 - Indexes user-uploaded course materials
 - Creates context-aware learning experiences
 - Adapts to individual knowledge levels
 
 #### 🕸️ **Knowledge Graph**
+
 - Maps user's current skill set
 - Identifies skill relationships and dependencies
 - Suggests relevant learning paths based on industry trends
 
 #### 🔌 **MCP (Model Context Protocol) Integrations**
+
 - **GitHub MCP**: Direct code editing and repository management
 - **HackTheBox MCP**: Cybersecurity challenges and practical exercises
 - **Google Docs MCP**: Automatic CV maintenance and portfolio building
-- *Expandable architecture for future integrations*
+- _Expandable architecture for future integrations_
 
 #### 🎮 **Gamification System**
+
 - Skill badges and achievements
 - Learning streaks for consistency
 - Luck-based rewards for engagement
@@ -82,14 +92,18 @@ graph TD
 ## 🎓 Target Audience
 
 ### Primary Users
+
 **University students and young professionals** in technology fields:
+
 - Computer Science
 - Data Analysis
 - Cybersecurity
 - Software Engineering
 
 ### Secondary Users
+
 **Educators and academic institutions** looking to:
+
 - Modernize teaching methods
 - Track student progress effectively
 - Align curricula with industry standards
@@ -100,12 +114,12 @@ graph TD
 
 While designed for IT education, Gefira's core logic is **domain-agnostic**:
 
-| Field | Application |
-|-------|-------------|
-| 🏥 **Medicine** | Compare lectures with clinical guidelines; generate case-based diagnostic tasks |
-| ⚙️ **Engineering** | Bridge theory with design tools; suggest real-world workflow projects |
-| 📊 **Business** | Gap analysis between coursework and market practices |
-| 🎨 **Design** | Industry-style projects using professional tools (Figma, AutoCAD) |
+| Field              | Application                                                                     |
+| ------------------ | ------------------------------------------------------------------------------- |
+| 🏥 **Medicine**    | Compare lectures with clinical guidelines; generate case-based diagnostic tasks |
+| ⚙️ **Engineering** | Bridge theory with design tools; suggest real-world workflow projects           |
+| 📊 **Business**    | Gap analysis between coursework and market practices                            |
+| 🎨 **Design**      | Industry-style projects using professional tools (Figma, AutoCAD)               |
 
 The growing ecosystem of MCP servers expands Gefira's interoperability daily, allowing seamless connection with diverse professional tools across disciplines.
 
@@ -114,21 +128,25 @@ The growing ecosystem of MCP servers expands Gefira's interoperability daily, al
 ## 📈 Impact & Vision
 
 ### Short-term
+
 - Pilot testing with student groups
 - Refine recommendation algorithms
 - Partner with universities and bootcamps
 
 ### Mid-term
+
 - Scale across multiple disciplines
 - Integrate with existing educational programs
 - Expand industry skill frameworks
 
 ### Long-term
+
 - Become a lifelong learning companion
 - Continuously adapt to evolving job markets
 - Support professional development beyond graduation
 
 ### Social Impact
+
 - 🌍 **Democratizes education** - Equal opportunities for students from smaller universities or rural areas
 - 📚 **Promotes digital inclusion** - Aligns with SDG 4 (Quality Education)
 - 🌱 **Environmental sustainability** - Reduces travel, printing, and material use through online training
@@ -155,13 +173,14 @@ The growing ecosystem of MCP servers expands Gefira's interoperability daily, al
 - 💻 **Miloš Jovanović**
 - ⚡ **Relja Brdar**
 
-> *We're a team driven by technical expertise, curiosity, creativity, and a genuine desire to make digital learning smarter and more personal. United by our friendship and natural collaboration, we bring extensive experience in AI integration, MCPs, system design, and web technologies.*
+> _We're a team driven by technical expertise, curiosity, creativity, and a genuine desire to make digital learning smarter and more personal. United by our friendship and natural collaboration, we bring extensive experience in AI integration, MCPs, system design, and web technologies._
 
 ---
 
 ## 📊 Success Metrics
 
 The platform's effectiveness will be measured by:
+
 - **Employment rates** of Gefira users vs. non-users
 - **Time to first job** after graduation
 - **Skill acquisition velocity** and retention
@@ -184,7 +203,7 @@ This project concept is documented for DigiEduHack 2025. Implementation details 
 
 <div align="center">
 
-**Gefira** - *Because knowing Docker shouldn't be a revolutionary concept in 2025* 🐳
+**Gefira** - _Because knowing Docker shouldn't be a revolutionary concept in 2025_ 🐳
 
 Made with 💜 by Team Educels
 
