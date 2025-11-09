@@ -9,8 +9,6 @@
 
 *An AI-powered learning platform that turns "whAt's a DoCker?" into "deployed and documented."*
 
-[View Concept](#-the-concept) • [Technical Overview](#-technical-architecture) • [Team](#-team)
-
 </div>
 
 ---
@@ -37,7 +35,7 @@ To reinforce and further motivate the user, we decided to add elements of **gami
 
 ---
 
-## 🏗️ Technical Architecture <a id="technical-architecture"></a>
+## 🏗️ Technical Architecture
 
 ### Core Technologies
 
